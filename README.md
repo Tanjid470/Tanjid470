@@ -1,5 +1,5 @@
 <h1 align="center">Tanjid Hossain Amran</h1>
-<h3 align="center">A passionate App Development from Bangladesh</h3>
+<h3 align="center">A passionate App Developer from Bangladesh</h3>
 <h4 align="center">Java Developer || Competitive Programmer</h4>
 
 
