@@ -1,8 +1,6 @@
 <h1 align="center">Tanjid Hossain Amran</h1>
-<h3 align="center">A passionate App Developer from Bangladesh</h3>
-<h4 align="center">Java Developer || Competitive Programmer</h4>
-
-
+<h4 align="left">A passionate App Developer from Bangladesh</h4>
+<h4 align="left">Java Developer || Competitive Programmer</h4>
 🎯 I'm diving deep into Java, Flutter . Back-end development and version control with Git are also on my radar.
 
 📫 Reach out to me at tanjidhs470@gmail.com
