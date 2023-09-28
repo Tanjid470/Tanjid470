@@ -1,11 +1,10 @@
 <h1 align="center">Tanjid Hossain Amran</h1>
-<h4 align="left">A passionate App Developer from Bangladesh</h4>
-<h4 align="left">Java Developer || Competitive Programmer</h4>
+
+<h4 align="left"> App Development || Java Development || Competitive Programmer</h4>
 🎯 I'm diving deep into Java, Flutter . Back-end development and version control with Git are also on my radar.
 
 📫 Reach out to me at tanjidhs470@gmail.com
-
-- **App Developer Akij Venture**
+<!--- **App Developer Akij Venture**-->
 - 💬 Ask me about **Java**
 
 
@@ -14,6 +13,7 @@
   
 <a href="https://www.linkedin.com/in/tanjid-amran-08b738202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanjid-amran-08b738202/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanjidamran11?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanjidamran11?hr_r=1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Tanjid470/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="https://leetcode.com/Tanjid470/" height="30" width="40" /></a>
 
 </p>
 
