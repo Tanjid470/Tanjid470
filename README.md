@@ -1,11 +1,11 @@
 <h1 align="center">Tanjid Hossain Amran</h1>
 
-<h4 align="left"> App Development || Java Development || Machine Learning Enthusiast || Competitive Programmer</h4>
-🎯 I'm diving deep into Java, Flutter . Back-end development and version control with Git are also on my radar.
+<h4 align="left"> App Development || Java Development || Artificial Intelligence Enthusiast || Competitive Programmer</h4>
+🎯 I'm diving deep into Java, Flutter, Back-end development, ML/DL research and version control with Git are also on my radar.
 
 📫 Reach out to me at tanjidhs470@gmail.com
 <!--- **App Developer Akij Venture**-->
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Flutter**, **Java**, **DSA**
 
 
 <h3 align="left">Connect with me:</h3>
