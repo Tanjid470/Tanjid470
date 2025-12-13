@@ -33,6 +33,45 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
 </a>
 
+<h3 align="left">🎯 Problem Solving Stats:</h3>
+<table>
+  <tr style="background-color:#f0f0f0; text-align:center;">
+    <th style="padding:8px;">Platform</th>
+    <th style="padding:8px;">Problems Solved</th>
+  </tr>
+  <tr style="text-align:center;">
+    <td style="padding:8px;">
+      <a href="https://leetcode.com/Tanjid470/" target="_blank" style="text-decoration:none; color:#000;">
+        <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="20" height="20"/> LeetCode
+      </a>
+    </td>
+    <td style="padding:8px;">370+</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; text-align:center;">
+    <td style="padding:8px;">
+      <a href="https://www.hackerrank.com/tanjidamran11?hr_r=1" target="_blank" style="text-decoration:none; color:#000;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="20" height="20"/> HackerRank
+      </a>
+    </td>
+    <td style="padding:8px;">100</td>
+  </tr>
+  <tr style="text-align:center;">
+    <td style="padding:8px;">
+      <a href="https://www.codechef.com/users/tanjidamran" target="_blank" style="text-decoration:none; color:#000;">
+        <img src="https://img.icons8.com/color/48/000000/codechef.png" width="20" height="20"/> CodeChef
+      </a>
+    </td>
+    <td style="padding:8px;">100</td>
+  </tr>
+  <tr style="background-color:#f9f9f9; text-align:center;">
+    <td style="padding:8px;">
+      <a href="https://icpc.global/" target="_blank" style="text-decoration:none; color:#000;">
+        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="20" height="20"/> ICPC 2021
+      </a>
+    </td>
+    <td style="padding:8px;">Participant</td>
+  </tr>
+</table>
 
 
 
