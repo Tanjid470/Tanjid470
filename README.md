@@ -8,7 +8,7 @@
 - 💬 Ask me about **Flutter**, **Java**, **DSA**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me (Click to contact):</h3>
 <p align="left">
   
 <a href="https://www.linkedin.com/in/tanjid-amran-08b738202/" target="blank">
