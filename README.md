@@ -1,5 +1,5 @@
 <h1 align="center">Tanjid Hossain Amran</h1>
-<h3 align="center">Flutter Developer | Software Engineer | Artificial Intelligence Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Flutter Developer | Software Engineer | AI & ML Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanjid470&label=Profile%20Views&color=0e75b6&style=flat" alt="Tanjid470" />
