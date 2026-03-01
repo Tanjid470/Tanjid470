@@ -63,9 +63,6 @@ Software Engineer with **2+ years** of experience in Mobile Application developm
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanjid470&theme=dark&hide_border=true" alt="Tanjid470's Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanjid470&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
-</p>
 
 ---
 
